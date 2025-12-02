@@ -1,0 +1,17 @@
+# Ignore system and IDE files
+.DS_Store
+.vscode/
+
+# Ignore Python cache and runtime files
+__pycache__/
+*.pyc
+
+# Ignore environment files
+# venv/
+# *.env
+
+# Ignore the large, generated database file (Optional, but good practice)
+# intelligence_platform.db
+
+# Exclude the old lab folder containing source files (MANDATORY for your request)
+Lab Week7/
