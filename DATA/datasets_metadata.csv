@@ -1,0 +1,16 @@
+name,source,category,size
+Global Threat Intel Feed,Vendor API,Intelligence,4500
+Employee Access Logs Q1,Internal Database,Logs,12000
+Network Traffic Capture (PCAP),Firewall,Network,56000
+Customer Transaction Records,Sales System,Financial,8500
+Malware Hash Database,Open Source Feed,Security,23000
+Server System Logs,Syslog Server,Infrastructure,15000
+Phishing Email Corpus,Email Gateway,Security,3200
+Competitor Market Analysis,Web Scraper,Business,1200
+Vulnerability Scan Report,Scanner Tool,Security,450
+User Behavior Analytics,Security Appliance,Analytics,9800
+VPN Connection Logs,VPN Gateway,Network,21000
+Application Error Logs,App Server,Development,5600
+Endpoint Security Events,Antivirus Central,Security,11000
+Cloud Storage Access Logs,AWS CloudTrail,Infrastructure,34000
+Legacy User Database,Archived SQL,Identity,750

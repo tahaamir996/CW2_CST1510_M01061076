@@ -1,0 +1,16 @@
+title,priority,status,assigned_to,created_date
+VPN Connection Failed,High,Open,Alice,2024-11-20
+Update Firewall Rules,Medium,In Progress,Bob,2024-11-21
+Password Reset Request,Low,Closed,Charlie,2024-11-22
+Database Server Latency,Critical,Open,Alice,2024-11-23
+New User Account Setup,Low,Open,Bob,2024-11-24
+Suspicious Login Alert,High,Investigating,Charlie,2024-11-25
+Printer Configuration Issue,Low,Closed,Alice,2024-11-26
+Software License Renewal,Medium,Open,Bob,2024-11-27
+Wi-Fi Connectivity Drop,Medium,Resolved,Charlie,2024-11-28
+Security Patch Deployment,High,Planned,Alice,2024-11-29
+Monitor Flickering Issue,Low,Open,Bob,2024-11-30
+Unable to Access Shared Drive,Medium,In Progress,Charlie,2024-12-01
+Keyboard Malfunction,Low,Closed,Alice,2024-12-02
+Phishing Email Reported,Critical,Investigating,Bob,2024-12-03
+Workstation Blue Screen Error,High,Open,Charlie,2024-12-04
