@@ -1,0 +1,2 @@
+username,password_hash,role
+taha,$2b$12$JofH/HjPDuXlkTV6EQdgneX2Cz/NhsAdb8svwOEMdG6oSJjqckKOW,admin

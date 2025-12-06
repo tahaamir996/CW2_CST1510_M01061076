@@ -2,7 +2,7 @@ import bcrypt
 from pathlib import Path
 from app.data.users import get_user_by_username, insert_user
 
-DEFAULT_MIGRATION_PATH = Path("DATA") / "Lab Week7" / "users.txt"
+DEFAULT_MIGRATION_PATH = Path("LAB Week7") / "users.txt"
 
 def register_user(username, password, role='user'):
     """Register new user with password hashing."""
