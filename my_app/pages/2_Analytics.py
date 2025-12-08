@@ -5,6 +5,8 @@ from incidents import get_all_incidents
 
 if "logged_in" not in st.session_state or not st.session_state.logged_in:
     st.error("You must be logged in to view this page.")
+    if st.button("Go to login"):
+        st.switch_page("Home.py")
     st.stop()
 
 st.title("Incident Analytics")
